@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to My Personal Website"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Tang Yun"
 description              : &description "Researcher, Singer and Online Course Lover"
@@ -83,7 +83,7 @@ author:
   name             : "Tang Yun"
   avatar           : "profile.png"
   bio              : "Researcher (Safety of Autonomous Vehicles), Singer (Chinese Pop)"
-  location         : "Coventry and Lincoln, UK"
+  location         : "United Kingdom"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=idlExzkAAAAJ"
