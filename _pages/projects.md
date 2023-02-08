@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Academic Services"
-permalink: /academic-services/
+title: "Open Source Projects"
+permalink: /projects/
 author_profile: true
 ---
 
-# My Open Source Projects
+# Open Source Projects
 
 Baidu Apollo Stack
 ---
