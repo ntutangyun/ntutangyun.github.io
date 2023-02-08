@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Open Source Projects
-
 Baidu Apollo Stack
 ---
 * [[Website](https://ntutangyun.github.io/apollo-hd-map-viewer/)] [[Source Code](https://github.com/ntutangyun/apollo-hd-map-viewer)] Apollo HD Map Viewer Visualize the Apollo HD map binary file without launching the Apollo docker containers.
