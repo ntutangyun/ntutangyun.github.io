@@ -9,6 +9,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 > 2023
+- Yuan Zhou, Yang Sun, **Yun Tang**, Yuqi Chen, Jun Sun, Christopher M. Poskitt, Yang Liu, Zijiang Yang. **Speficification-based Testing of Autonomous Driving Systems**. (TSE 2023)
 - Yuan Zhou, Gengjie Lin, **Yun Tang**, Kairui Yang, Wei Jing, Ping Zhang, Junbo Chen, Liang Gong, Yang Liu. **FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing**. (ICRA 2023)
 
 > 2022
