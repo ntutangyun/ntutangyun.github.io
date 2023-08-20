@@ -22,6 +22,7 @@ Working Experience
 
 Awards
 ------
+* 2023 Nov: IEEE Intelligent Transportation Systems Society (ITSS) Young Professional Fellowship
 * 2022 Jun: Lyve Cloud Hackathon 2022 - 1st Place. Developed a full-stack solution (see open source tools section below) for data migration/synchronization from other cloud providers such as AWS, Azure, Google Cloud Storage, Alibaba OSS to Lyve cloud. Stack: React, Ant Design, Node.js, Express, MongoDB, and Docker.
 * 2019 - 2023: Alibaba Post-graduate research Scholarship.
 * 2012 - 2016: Senior Middle 3 (SM3) Scholarship, for 4-year undergraduate studies at Nanyang Technological University.
