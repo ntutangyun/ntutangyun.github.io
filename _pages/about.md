@@ -12,8 +12,8 @@ I'm a Research Fellow in WMG, University of Warwick. I conduct researches toward
 
 Education
 ------
-* Ph.D. (Alibaba Talent Programme) (Aug 2019 - Aug 2022). Alibaba-NTU Singapore Joint Research Institute, Nanyang Technological University, Singapore.
-* BEng (1st Class Hons) (Aug 2012 - Jun 2016). School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore.
+* Ph.D. (Alibaba Talent Programme) (Aug 2019 - Aug 2022). Alibaba-NTU Singapore Joint Research Institute, Nanyang Technological University, Singapore. Supervisor: Prof. Yang Liu. Co-supervisor: Prof. Chen Lv. Mentor: Prof. Wuling Huang. 
+* BEng (1st Class Hons) (Aug 2012 - Jun 2016). School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore. Supervisor/Mentor: Prof. Wee Ser.  
 
 Working Experience
 ------
