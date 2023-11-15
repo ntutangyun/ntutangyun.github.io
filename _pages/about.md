@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Fellow in WMG, University of Warwick. I conduct researches toward a systematic framework for functional safety V&V for autonomous vehicles. Currently I focus on automated test scenario generation.
+I'm a Research Fellow in WMG, University of Warwick. I conduct researches toward a systematic scenario engineering framework for Connected & Autonomous Vehicles.
 
 Education
 ------
