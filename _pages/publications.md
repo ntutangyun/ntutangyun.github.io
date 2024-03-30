@@ -9,6 +9,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 > 2024
 - **Yun Tang**, Dhanush Raj, Xingyu Zhao, Xizhe Zhang, Antonio A Bruto da Costa, Siddartha Khastgir, Paul Jennings. **ODD-based query-time scenario mutation framework for autonomous driving scenario databases**. (ICRA 2024)
+- **Yun Tang**, Antonio A. Bruto da Costa, Patrick Irvine, Yi Zhang, Xingyu Zhao, Siddartha Khastgir, Paul Jennings. **Extending Scenario Description Languages for Intelligence Testing of Autonomous Vehicles**. (IV2024)
 
 > 2023
 - **Yun Tang**, Antonio A. Bruto da Costa, Jason Zhang, Irvine Patrick, Siddartha Khastgir, Paul Jennings. **Domain Knowledge Distillation from Large Language Model: An Empirical Study in the Autonomous Driving Domain**. (ITSC 2023) ([Ontology Distillation Assistant](https://github.com/ntutangyun/OntoGPT))
