@@ -8,8 +8,10 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=idlExzkAAAAJ">my Google Scholar profile</a>.
 
 > 2024
+- Yi Zhang, **Yun Tang**, Wenjie Ruan, Xiaowei Huang, Siddartha Khastgir, Paul Jennings, Xingyu Zhao. **ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**. (ECCV 2024)
+- Xingyuan Dai, Chao Guo, **Yun Tang**, Haichuan Li, Yutong Wang, Jun Huang, Yonglin Tian, Xin Xia, Yisheng Lv, Fei-Yue Wang. **VistaRAG: Toward Safe and Trustworthy Autonomous Driving Through Retrieval-Augmented Generation**. (IEEE TIV)
 - **Yun Tang**, Dhanush Raj, Xingyu Zhao, Xizhe Zhang, Antonio A Bruto da Costa, Siddartha Khastgir, Paul Jennings. **ODD-based query-time scenario mutation framework for autonomous driving scenario databases**. (ICRA 2024)
-- **Yun Tang**, Antonio A. Bruto da Costa, Patrick Irvine, Yi Zhang, Xingyu Zhao, Siddartha Khastgir, Paul Jennings. **Extending Scenario Description Languages for Intelligence Testing of Autonomous Vehicles**. (IV2024)
+- **Yun Tang**, Antonio A. Bruto da Costa, Patrick Irvine, Yi Zhang, Xingyu Zhao, Siddartha Khastgir, Paul Jennings. **Extending scenario description languages for intelligence testing of autonomous vehicles**. (IV2024)
 
 > 2023
 - **Yun Tang**, Antonio A. Bruto da Costa, Jason Zhang, Irvine Patrick, Siddartha Khastgir, Paul Jennings. **Domain Knowledge Distillation from Large Language Model: An Empirical Study in the Autonomous Driving Domain**. (ITSC 2023) ([Ontology Distillation Assistant](https://github.com/ntutangyun/OntoGPT))
