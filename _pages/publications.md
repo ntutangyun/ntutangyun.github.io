@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=idlExzkAAAAJ">my Google Scholar profile</a>.
 
 > 2024
+- **Yun Tang**, Luke Moffat, Weisi Guo, Corinne May-Chahal, Joe Deville, Antonios Tsourdos. **Encoding Social & Ethical Values in Autonomous Navigation: Philosophies Behind an Interactive Online Demonstration**. (TAS 24)
 - Yi Zhang, **Yun Tang**, Wenjie Ruan, Xiaowei Huang, Siddartha Khastgir, Paul Jennings, Xingyu Zhao. **ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**. (ECCV 2024)
 - Xingyuan Dai, Chao Guo, **Yun Tang**, Haichuan Li, Yutong Wang, Jun Huang, Yonglin Tian, Xin Xia, Yisheng Lv, Fei-Yue Wang. **VistaRAG: Toward Safe and Trustworthy Autonomous Driving Through Retrieval-Augmented Generation**. (IEEE TIV)
 - **Yun Tang**, Dhanush Raj, Xingyu Zhao, Xizhe Zhang, Antonio A Bruto da Costa, Siddartha Khastgir, Paul Jennings. **ODD-based query-time scenario mutation framework for autonomous driving scenario databases**. (ICRA 2024)
