@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Fellow at Cranfield University, United Kingdom. My current research focuses are 6G-enabled autonomy.
+I'm a Research Fellow at Cranfield University, United Kingdom. My current research focuses are 6G-enabled autonomy. You can chat with me at [Yun-a-Capybara](https://chatgpt.com/g/g-duSnBos76-yun-a-capybara).
 
 Education
 ------
